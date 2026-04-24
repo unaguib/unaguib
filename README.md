@@ -19,7 +19,7 @@ I am a **Quant Tech Specialist** and **MSc Finance Candidate** based in Porto, P
 - **The Solution:** A Python-based terminal tool that tracks Binance order book depth in real-time, calculating ATR-based distance from daily open and filtering out non-mitigated liquidity levels.
 - **Tech Stack:** Python, Pandas, Websockets, NumPy.
 
-### 🏛️ [ThothTrader Panel (MQL5)](https://github.com/yourusername/thoth-trader) | **2021 – Present**
+### 🏛️ [ThothTrader Panel (MQL5)](https://github.com/unaguib/Thothtrade) | **2021 – Present**
 *Professional Execution & Risk Management Suite*
 - **The Problem:** Manual trading introduces execution lag and emotional bias in risk management.
 - **The Solution:** A comprehensive MQL5 trading panel for MetaTrader 5 that automates technical analysis triggers and risk-engine logic. Includes a custom **Cloud-based Licensing Infrastructure** built with JavaScript/Cloudflare.
