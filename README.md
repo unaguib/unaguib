@@ -34,6 +34,7 @@ Present** https://thothtrade-license.thothtrader.workers.dev/
 
 ### 📈 [Econometric Analysis: SVAR Transmission Lags](https://github.com/yourusername/svar-research) | **2024 – Present**
 *Master's Thesis Research*
+https://bondredemptions.netlify.app/
 - **The Goal:** Isolating the causal relationship between Portuguese government bond redemptions and equity market performance.
 - **The Methodology:** Using **Structural Vector Autoregression (SVAR)** to identify the 10-day transmission lag and the impact of sovereign risk spreads (PT-DE).
 - **Tech Stack:** Python, Statsmodels, Matplotlib.
