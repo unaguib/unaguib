@@ -5,7 +5,7 @@
 [![MSc Finance](https://img.shields.io/badge/MSc-Finance%20%26%20Taxation-blueviolet.svg)](https://www.isla.pt/)
 
 ## 🚀 Professional Profile & Curated Portfolio
-*Note: This repository serves as a consolidated overview of my technical projects and research spanning **2019–2026**. Older source code and raw development history are maintained in private archives.*
+*Note: This repository serves as a consolidated overview of my technical projects and research spanning **2024–2026**. Older source code and raw development history are maintained in private archives.*
 
 I am a **Quant Tech Specialist** and **MSc Finance Candidate** based in Porto, Portugal. I specialize in bridging the gap between high-frequency market data and actionable trading intelligence. My expertise lies in building real-time monitoring tools, algorithmic execution suites, and structural econometric models.
 
